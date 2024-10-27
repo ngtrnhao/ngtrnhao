@@ -31,9 +31,7 @@
 
 [mern_auth](https://github.com/ngtrnhao/mern_auth) là một dự án xác thực sử dụng MERN stack (MongoDB, Express, React, Node.js). Dự án này cung cấp một nền tảng vững chắc cho việc xây dựng các ứng dụng web với hệ thống xác thực người dùng an toàn và hiệu quả.
 
-## 🎨 PaoMultiverse/CNPMnangcao
 
-[PaoMultiverse/CNPMnangcao](https://github.com/PaoMultiverse/CNPMnangcao) là một dự án hợp tác tập trung vào phát triển phần mềm nâng cao. Dự án này thể hiện khả năng làm việc nhóm và áp dụng các kỹ thuật phát triển phần mềm tiên tiến của Nhật Hào.
 
 ## 🛠️ Tech Stack
 
