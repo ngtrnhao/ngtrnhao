@@ -68,8 +68,10 @@ Các dự án được phân phối dưới giấy phép tương ứng. Xem `LIC
 </div>
 
 ⭐️ From [ngtrnhao](https://github.com/ngtrnhao) with ❤️
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngtrnhao/ngtrnhao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngtrnhao/ngtrnhao/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ngtrnhao/ngtrnhao/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngtrnhao/ngtrnhao/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngtrnhao/ngtrnhao/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ngtrnhao/ngtrnhao/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
