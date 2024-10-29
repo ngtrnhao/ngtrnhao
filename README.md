@@ -19,7 +19,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngtrnhao&theme=dark" alt="Nhật Hào's GitHub Streak">
 </div>
 ![Snake animation](https://github.com/ngtrnhao/ngtrnhao/blob/output/github-contribution-grid-snake.svg)
----
+
 
 # 📚 Dự Án Nổi Bật
 
