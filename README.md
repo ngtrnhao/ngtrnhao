@@ -53,9 +53,6 @@ Nhật Hào luôn mở rộng cơ hội hợp tác và đóng góp cho các dự
 4. 📌 Push lên nhánh (`git push origin feature/AmazingFeature`)
 5. 🔎 Mở Pull Request
 
-## 📜 Giấy phép
-
-Các dự án được phân phối dưới giấy phép tương ứng. Xem `LICENSE` trong từng repository để biết thêm thông tin.
 
 ---
 
