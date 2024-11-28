@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ngtrnhao&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ## 📊 GitHub Stats
 
