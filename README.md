@@ -1,5 +1,5 @@
 
-## 🛠️ Kỹ năng & Công nghệ
+##  ⚒️ Skills and Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -23,19 +23,6 @@
 </div>
 
 
-
-# 📚 Dự Án Nổi Bật
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300">
-</div>
-
-## 🌟 mern_auth
-
-[mern_auth](https://github.com/ngtrnhao/mern_auth) là một dự án xác thực sử dụng MERN stack (MongoDB, Express, React, Node.js). Dự án này cung cấp một nền tảng vững chắc cho việc xây dựng các ứng dụng web với hệ thống xác thực người dùng an toàn và hiệu quả.
-
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -46,15 +33,6 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
 
-## 🌈 Đóng góp
-
-Nhật Hào luôn mở rộng cơ hội hợp tác và đóng góp cho các dự án open-source. Nếu bạn quan tâm đến bất kỳ dự án nào, hãy:
-
-1. 🍴 Fork dự án
-2. 🔧 Tạo nhánh tính năng (`git checkout -b feature/AmazingFeature`)
-3. 🔀 Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
-4. 📌 Push lên nhánh (`git push origin feature/AmazingFeature`)
-5. 🔎 Mở Pull Request
 
 
 ---
