@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux&theme=dark" /><br/>
   
   <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /><br/>
   
   <h3>Tools & Technologies</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark" />
