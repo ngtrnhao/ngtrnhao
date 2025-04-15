@@ -3,8 +3,9 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Profile!+I'm+a+Developer+🚀;Always+learning+and+exploring+new+technologies+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Profile!+I'm+a+Developer+🚀;Always+learning+and+exploring+new+technologies+💻" alt="Typing SVG" />
 </h1>
+
 
 <br/>
 <div align="center">
