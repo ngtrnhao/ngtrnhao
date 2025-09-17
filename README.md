@@ -40,7 +40,7 @@
 
 <div align="center">
   <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux&theme=dark" /><br/>
   
   <h3>Backend Development</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /><br/>
