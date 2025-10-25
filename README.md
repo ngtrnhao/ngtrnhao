@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Profile!+I'm+a+Developer+🚀;Always+learning+and+exploring+new+technologies+💻" alt="Typing SVG" />
 </h1>
 
-
 <br/>
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-c1c1ff?style=for-the-badge&labelColor=1f2937" />
   <img src="https://img.shields.io/badge/Location-Vietnam-A9FEF7?style=for-the-badge&labelColor=1f2937" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-c1c1ff?style=for-the-badge&labelColor=1f2937" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1f2937" />
 </div>
 
 <h2></h2>
@@ -25,6 +25,7 @@
 - 🌱 Currently learning System Design
 - ⚡ Fun fact: I debug with coffee ☕
 - 🎮 Love coding and gaming
+- 🐧 **Arch Linux enthusiast** - Rolling release FTW!
 
 <h2></h2>
 
@@ -36,6 +37,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/ngtrnhao/ngtrnhao/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 <h2 align="center">🛠️ Technical Skills</h2>
 
 <div align="center">
@@ -47,6 +49,10 @@
   
   <h3>Tools & Technologies</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark" />
+  
+  <h3>Operating Systems</h3>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 <details align="center">
@@ -62,10 +68,15 @@
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   
-  #### Tools
+  #### DevOps & Tools
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+  #### Package Management
+  ![AUR](https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  ![Pacman](https://img.shields.io/badge/Pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 </details>
 
 <div align="center">
@@ -81,6 +92,20 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ngtrnhao&theme=tokyonight_duo&hide_border=true&background=0d1117&stroke=A9FEF7&ring=c1c1ff&fire=A9FEF7&currStreakNum=c1c1ff&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=c1c1ff&dates=A9FEF7" />
+</div>
+
+<h2></h2>
+
+### 🏆 &nbsp;Open Source Contributions
+
+<div align="center">
+  <h3>🎉 My First AUR Package!</h3>
+  <a href="https://aur.archlinux.org/packages/anyquery-git">
+    <img src="https://img.shields.io/badge/AUR-anyquery--git-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  </a>
+  <p><strong>anyquery-git</strong> - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs connect using MCP</p>
+  <img src="https://img.shields.io/badge/Maintainer-ngtrnhao-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-AGPL--3.0--or--later-blue?style=flat-square" />
 </div>
 
 <h2></h2>
