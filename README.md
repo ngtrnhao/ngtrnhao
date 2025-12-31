@@ -52,7 +52,6 @@
   
   <h3>Operating Systems</h3>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 <details align="center">
