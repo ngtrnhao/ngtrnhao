@@ -107,15 +107,6 @@
   <img src="https://img.shields.io/badge/License-AGPL--3.0--or--later-blue?style=flat-square" />
 </div>
 
-<h2></h2>
-
-<div align="center">
-  <a href="mailto:nguyentruongnhathao1922@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=A9FEF7" />
-  </a>
-  <a href="https://github.com/ngtrnhao">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=A9FEF7" />
-  </a>
 </div>
 
 <br/>
