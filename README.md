@@ -78,23 +78,6 @@
   ![Pacman](https://img.shields.io/badge/Pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 </details>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrnhao&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=A9FEF7&text_color=c1c1ff" />
-</div>
-
-<h2></h2>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ngtrnhao&show_icons=true&count_private=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c1c1ff&bg_color=0d1117&hide_border=true" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrnhao&layout=compact&title_color=A9FEF7&text_color=c1c1ff&bg_color=0d1117&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ngtrnhao&theme=tokyonight_duo&hide_border=true&background=0d1117&stroke=A9FEF7&ring=c1c1ff&fire=A9FEF7&currStreakNum=c1c1ff&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=c1c1ff&dates=A9FEF7" />
-</div>
-
-<h2></h2>
-
 ### 🏆 &nbsp;Open Source Contributions
 
 <div align="center">
