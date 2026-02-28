@@ -78,22 +78,3 @@
   ![Pacman](https://img.shields.io/badge/Pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 </details>
 
-### 🏆 &nbsp;Open Source Contributions
-
-<div align="center">
-  <h3>🎉 My First AUR Package!</h3>
-  <a href="https://aur.archlinux.org/packages/anyquery-git">
-    <img src="https://img.shields.io/badge/AUR-anyquery--git-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  </a>
-  <p><strong>anyquery-git</strong> - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs connect using MCP</p>
-  <img src="https://img.shields.io/badge/Maintainer-ngtrnhao-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-AGPL--3.0--or--later-blue?style=flat-square" />
-</div>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,6,12,18,24,30&height=120&section=footer&rotate=13" />
-</div>
